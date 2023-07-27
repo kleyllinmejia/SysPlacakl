@@ -1,0 +1,48 @@
+main .funcion{
+    padding: 40px 0 60px 0;
+    }
+
+    .contenedor-funcion{
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    
+    }
+
+    .funcion .contenido-textos{
+        width: 40%;
+        mar
+    }
+
+    .contenido-textos h3{
+        margin-bottom: 5px;
+    }
+
+    .contenido-textos h3 span{
+        background: #000000;
+        color: #fff;
+        border-radius: 50%;
+        display: inline-block;
+        text-align: center;
+        width: 30px;
+        height: 30px;
+        padding: 2px;
+        box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+        margin-right: 5px;
+    }
+
+    .contenido-textos p{
+        padding: 0px 0px 30px 15px;
+        font-weight: 400;
+        text-align: justify;
+        font-size: 17px;
+    }
+
+    .titulo {
+        color: #1f4716;
+        font-size: 30px;
+        text-align: left;
+        margin-bottom: 60px;
+    }
+
